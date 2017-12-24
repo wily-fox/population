@@ -62,7 +62,7 @@ def main(alpha, delta, k, sig, h):
     # xsep2, ysep2 = make_data1(xs2, ys2, alpha, delta, -0.01)
     # matlab_export(xsep1, ysep1, "sep1.txt")
     # matlab_export(xsep2, ysep1, "sep2.txt")
-    matlab_export(x1, y1, "pol_12.txt")
+    # matlab_export(x1, y1, "pol_12.txt")
     matlab_export(x2, y2, "pol_22.txt")
     matlab_export(x3, y3, "cycle.txt")
     matlab_export(x4, y4, "traekt.txt")
