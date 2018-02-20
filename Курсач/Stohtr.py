@@ -51,8 +51,8 @@ def make_data(alpha, delta, sig, h):
     main_listx = []
     main_listy = []
     list_t = []
-    x0, y0 = search_cycle(alpha, delta, h)
-    # x0, y0 = search3(alpha, delta)
+    # x0, y0 = search_cycle(alpha, delta, h)
+    x0, y0 = search3(alpha, delta)
     for i in range(100000):
         n1 = np.random.normal()
         n2 = np.random.normal()
@@ -87,5 +87,5 @@ def make_data(alpha, delta, sig, h):
     return main_listx1, main_listy1
     # return main_listx, main_listy
 
-# x, y = make_data(0.4, 0.1309, 0.01, 0.01)
-# matlab_export(x, y, "tr.txt")
+x, y = make_data(0.4, 0.1309, 0.01, 0.01)
+matlab_export(x, y, "tr.txt")
