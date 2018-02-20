@@ -1,5 +1,5 @@
 def pr_f_x(alpha, x, y):
-    return 1 - y/(1 + alpha * x)**2 - 0.02 * x
+    return 1 - y / (1 + alpha * x) ** 2 - 0.02 * x
 
 
 def pr_f_y(alpha, x):
@@ -23,12 +23,15 @@ def g(x, y, alpha, delta):
 
 
 def func(alpha, delta, x):
-    return -1-alpha*x+x-delta*(1+2*alpha*x+(alpha**2)*x**2-0.01*x-0.02*alpha*x**2-0.01*(alpha**2)*x**3)
+    return -1 - alpha * x + x - delta * (
+                1 + 2 * alpha * x + (alpha ** 2) * x ** 2 - 0.01 * x - 0.02 * alpha * x ** 2 - 0.01 * (
+                    alpha ** 2) * x ** 3)
 
 
 def pr_func(alpha, delta, x):
-    return -alpha+1-delta*(2*alpha+2*(alpha**2)*x-0.01-0.04*alpha*x-0.03*(alpha**2)*x**2)
+    return -alpha + 1 - delta * (
+                2 * alpha + 2 * (alpha ** 2) * x - 0.01 - 0.04 * alpha * x - 0.03 * (alpha ** 2) * x ** 2)
 
 
 def func_y(alpha, delta, x):
-    return ((x / (1 + alpha * x)) - 1)/delta
+    return ((x / (1 + alpha * x)) - 1) / delta
