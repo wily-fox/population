@@ -73,5 +73,6 @@ def main(alpha):
     plt.grid(True)
     pylab.show()
 
+
 if __name__ == '__main__':
     main(0.4)

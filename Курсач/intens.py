@@ -23,7 +23,7 @@ def search_p(alpha, delta, k, sig, h):
         y1_list.append(y1)
         x2_list.append(x2)
         y2_list.append(y2)
-    matlab_export(x2_list, y2_list, "pol2.txt")
+    # matlab_export(x2_list, y2_list, "pol2.txt")
     return x1_list, y1_list, x2_list, y2_list, x_list, y_list
 
 
