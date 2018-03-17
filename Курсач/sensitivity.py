@@ -16,6 +16,7 @@ def A(x, y, alpha, delta):
     sq_fg = f_zn ** 2 + g_zn ** 2
     return 2 * (f_x * g_zn ** 2 + g_y * f_zn ** 2 - g_zn * f_zn * pr_fg) / sq_fg
 
+
 def sens(alpha, delta, h):
     max_m = 0
     min_m = 1000

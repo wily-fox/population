@@ -14,4 +14,4 @@ def main(alpha, delta):
 
 
 if __name__ == "__main__":
-    main(0.4, 0.1309)
+    main(0.4, 0.12)

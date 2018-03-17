@@ -52,7 +52,7 @@ def make_data(alpha, delta, sig, h):
     main_listy = []
     list_t = []
     # x0, y0 = search_cycle(alpha, delta, h)
-    x0, y0 = search3(alpha, delta)
+    x0, y0 = search(alpha, delta)
     for i in range(100000):
         n1 = np.random.normal()
         n2 = np.random.normal()
