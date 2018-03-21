@@ -10,8 +10,8 @@ def sear(alpha, blue, red, gray, delta1, delta2, delta3):
         while j <= 1:
             f = True
             loc = search_p(alpha, i, 1.821, j, h)
-            x_list = loc[0]
-            y_list = loc[1]
+            x_list = loc[2]
+            y_list = loc[3]
             for k in range(len(x_list)):
                 if x_list[k] <= 0:
                     blue.append(j)
@@ -26,9 +26,9 @@ def sear(alpha, blue, red, gray, delta1, delta2, delta3):
                 if f:
                     gray.append(j)
                     delta3.append(i)
-            j += 0.001
+            j += 0.01
         print(i)
-        i += 0.01
+        i += 0.001
         j = 0
 
 

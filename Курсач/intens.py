@@ -67,7 +67,7 @@ def main(alpha, delta, k, sig, h):
     matlab_export(x3, y3, "cycle.txt")
     matlab_export(x4, y4, "traekt.txt")
     plt.plot(x4, y4, 'o')# c='#808080', ls=':')
-    plt.plot(x1, y1, 'b', x2, y2, 'b', x3, y3, 'k')
+    plt.plot(x1, y1, 'b', x2, y2, 'r', x3, y3, 'k')
     # plt.plot(xsep1, ysep1, 'r:', xsep2, ysep2, 'r:')
     plt.axis([-5, 120, -5, 15])
     plt.grid(True)
@@ -75,4 +75,4 @@ def main(alpha, delta, k, sig, h):
 
 
 if __name__ == '__main__':
-    main(0.4, 0.12, 1.821, 0.05, 0.01)
+    main(0.4, 0.1, 1.821, 0.01, 0.01)
