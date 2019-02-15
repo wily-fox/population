@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="302afcfe-8bb9-4932-aca9-df9de9a236ee" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/Новый курсач.iml" afterPath="$PROJECT_DIR$/.idea/Новый курсач.iml" />
+      <change beforePath="$PROJECT_DIR$/Курсач/Stohtr.py" afterPath="$PROJECT_DIR$/Курсач/Stohtr.py" />
+      <change beforePath="$PROJECT_DIR$/Курсач/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркационные диаграммы/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркационные диаграммы/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/bif.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/bif.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/bif.png" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/bif.png" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркация.PNG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркация.docx" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Бифуркация.docx" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.21, sig0.01/0.21(0.05).fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.21, sig0.01/0.21(0.05).fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.21, sig0.01/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.21, sig0.01/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.21, sig0.01/xy_t.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.21, sig0.01/xy_t.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.235_2, sig0.01/0.235(0.01).fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.235_2, sig0.01/0.235(0.01).fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.235_2, sig0.01/0.235.png" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.235_2, sig0.01/0.235.png" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.235_2/xy_t.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.235_2/xy_t.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.235_2/xy_t.png" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/0.235_2/xy_t.png" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.01/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.01/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.05/b_k(0.05).fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.05/b_k(0.05).fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.05/xy1.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.05/xy1.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.025/vim(0.025).fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.025/vim(0.025).fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.025/xy.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.025/xy.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.05/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.05/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.05/vim(0.05).fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.05/vim(0.05).fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.05/vim(0.05).png" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.05/vim(0.05).png" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.05/xy.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Вымирание/0.12/sig0.05/xy.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.1/fig1a.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.1/fig1a.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.130880839/fig4b.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.130880839/fig4b.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.15/fig4c.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.15/fig4c.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.196565/fig4d.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.196565/fig4d.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.2/fig4e.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.2/fig4e.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.23/fig4f.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.23/fig4f.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.2395/fig4g.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Графики/Фазовые портреты/0.2395/fig4g.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Дипломчик.docx" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Дипломчик.docx" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Картинки для вставки/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Картинки для вставки/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Картинки для вставки/krint_p.png" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Картинки для вставки/krint_p.png" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Картинки для вставки/m_del.png" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Картинки для вставки/m_del.png" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/T_del.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/T_del.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/Ust2.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/Ust2.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/Ust2.png" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/Ust2.png" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/m_del.fig" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Фиги/m_del.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/alpha=0,4/Шум/Thumbs.db" afterPath="$PROJECT_DIR$/Курсач/alpha=0,4/Шум/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/Курсач/blue.txt" afterPath="$PROJECT_DIR$/Курсач/blue.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/blue1.txt" afterPath="$PROJECT_DIR$/Курсач/blue1.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/cycle.txt" afterPath="$PROJECT_DIR$/Курсач/cycle.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/el.py" afterPath="$PROJECT_DIR$/Курсач/el.py" />
+      <change beforePath="$PROJECT_DIR$/Курсач/gray.txt" afterPath="$PROJECT_DIR$/Курсач/gray.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/gray1.txt" afterPath="$PROJECT_DIR$/Курсач/gray1.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/intens.py" afterPath="$PROJECT_DIR$/Курсач/intens.py" />
+      <change beforePath="$PROJECT_DIR$/Курсач/krint_p.fig" afterPath="$PROJECT_DIR$/Курсач/krint_p.fig" />
+      <change beforePath="$PROJECT_DIR$/Курсач/krint_vim.py" afterPath="$PROJECT_DIR$/Курсач/krint_vim.py" />
+      <change beforePath="$PROJECT_DIR$/Курсач/pol_22.txt" afterPath="$PROJECT_DIR$/Курсач/pol_22.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/red.txt" afterPath="$PROJECT_DIR$/Курсач/red.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/red1.txt" afterPath="$PROJECT_DIR$/Курсач/red1.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/tr.txt" afterPath="$PROJECT_DIR$/Курсач/tr.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/traekt.txt" afterPath="$PROJECT_DIR$/Курсач/traekt.txt" />
+      <change beforePath="$PROJECT_DIR$/Курсач/vim_p.fig" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Курсач/vim_p.py" afterPath="$PROJECT_DIR$/Курсач/vim_p.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Новый курсач$ust.coverage" NAME="ust Coverage Results" MODIFIED="1513443974189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$Stohtr.coverage" NAME="Stohtr Coverage Results" MODIFIED="1516772633647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$rk.coverage" NAME="rk Coverage Results" MODIFIED="1488123850823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$el.coverage" NAME="el Coverage Results" MODIFIED="1513666300596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$PlotSt.coverage" NAME="PlotSt Coverage Results" MODIFIED="1513664736539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/_$vim_p.coverage" NAME="vim_p Coverage Results" MODIFIED="1521527559602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$Lera.coverage" NAME="Lera Coverage Results" MODIFIED="1504713780655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/_$el.coverage" NAME="el Coverage Results" MODIFIED="1520528154537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$123.coverage" NAME="123 Coverage Results" MODIFIED="1487002073786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$round__1_.coverage" NAME="round (1) Coverage Results" MODIFIED="1498584336877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$stohtr.coverage" NAME="stohtr Coverage Results" MODIFIED="1491494539231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$ellips.coverage" NAME="ellips Coverage Results" MODIFIED="1494400080008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$sensitivity.coverage" NAME="sensitivity Coverage Results" MODIFIED="1513446969275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$ust1.coverage" NAME="ust1 Coverage Results" MODIFIED="1506947016953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$krint.coverage" NAME="krint Coverage Results" MODIFIED="1513443083882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/_$intens.coverage" NAME="intens Coverage Results" MODIFIED="1521527329103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$intens.coverage" NAME="intens Coverage Results" MODIFIED="1513667585994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$plot_m.coverage" NAME="plot_m Coverage Results" MODIFIED="1513444178724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$Model1.coverage" NAME="Model1 Coverage Results" MODIFIED="1513495898076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$sep.coverage" NAME="sep Coverage Results" MODIFIED="1490629760172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$round.coverage" NAME="round Coverage Results" MODIFIED="1498460934379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Новый курсач$save.coverage" NAME="save Coverage Results" MODIFIED="1498559867215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+    <SUITE FILE_PATH="coverage/Новый курсач$korn.coverage" NAME="korn Coverage Results" MODIFIED="1498585499673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Курсач" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="intens.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Курсач/intens.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="60" column="32" lean-forward="false" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ellips.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Курсач/ellips.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="el.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Курсач/el.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="100" column="30" lean-forward="false" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vim_p.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Курсач/vim_p.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sensitivity.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Курсач/sensitivity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="59" column="29" lean-forward="false" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="krint_vim.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Курсач/krint_vim.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Курсач/ver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1528820858803" expanded="true" signature="1357:1366" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stohtr.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Курсач/Stohtr.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="85" column="41" lean-forward="false" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Курсач/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Курсач/123.py" />
+        <option value="$PROJECT_DIR$/Курсач/sep.py" />
+        <option value="$PROJECT_DIR$/Курсач/Model1.py" />
+        <option value="$PROJECT_DIR$/Курсач/search.py" />
+        <option value="$PROJECT_DIR$/Курсач/stohtr.py" />
+        <option value="$PROJECT_DIR$/Курсач/function.py" />
+        <option value="$PROJECT_DIR$/Курсач/ellips.py" />
+        <option value="$PROJECT_DIR$/Курсач/rk.py" />
+        <option value="$PROJECT_DIR$/../round.py" />
+        <option value="$PROJECT_DIR$/Курсач/korn.py" />
+        <option value="$PROJECT_DIR$/Курсач/Lera.py" />
+        <option value="$PROJECT_DIR$/Курсач/round.py" />
+        <option value="$PROJECT_DIR$/Курсач/ust.py" />
+        <option value="$PROJECT_DIR$/Курсач/ust1.py" />
+        <option value="$PROJECT_DIR$/Курсач/plot_m.py" />
+        <option value="$PROJECT_DIR$/Курсач/Search.py" />
+        <option value="$PROJECT_DIR$/Курсач/functions.py" />
+        <option value="$PROJECT_DIR$/Курсач/krint.py" />
+        <option value="$PROJECT_DIR$/Курсач/save.py" />
+        <option value="$PROJECT_DIR$/Курсач/PlotSt.py" />
+        <option value="$PROJECT_DIR$/Курсач/vim_o.py" />
+        <option value="$PROJECT_DIR$/Курсач/sensitivity.py" />
+        <option value="$PROJECT_DIR$/Курсач/krint_vim.py" />
+        <option value="$PROJECT_DIR$/Курсач/vim_p.py" />
+        <option value="$PROJECT_DIR$/Курсач/Stohtr.py" />
+        <option value="$PROJECT_DIR$/Курсач/el.py" />
+        <option value="$PROJECT_DIR$/Курсач/intens.py" />
+        <option value="$PROJECT_DIR$/Курсач/ver.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="7" />
+    <option name="width" value="1364" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Новый курсач" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Новый курсач" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Новый курсач" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Новый курсач" type="462c0819:PsiDirectoryNode" />
+              <item name="Курсач" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ver">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="el" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Курсач" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Курсач/el.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="intens" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Курсач" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Курсач/intens.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="krint_vim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Курсач" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Курсач/krint_vim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ver" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Курсач" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Курсач/ver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="vim_p" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Курсач" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Курсач/vim_p.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="Новый курсач" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Новый курсач" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.krint_vim" />
+      <item index="1" class="java.lang.String" itemvalue="Python.intens" />
+      <item index="2" class="java.lang.String" itemvalue="Python.vim_p" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ver" />
+      <item index="4" class="java.lang.String" itemvalue="Python.el" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.ver" />
+        <item index="1" class="java.lang.String" itemvalue="Python.intens" />
+        <item index="2" class="java.lang.String" itemvalue="Python.el" />
+        <item index="3" class="java.lang.String" itemvalue="Python.vim_p" />
+        <item index="4" class="java.lang.String" itemvalue="Python.krint_vim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="302afcfe-8bb9-4932-aca9-df9de9a236ee" name="Default" comment="" />
+      <created>1487000978191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487000978191</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1513673681883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513673681883</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed">
+      <created>1513674756943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513674756943</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed">
+      <created>1514125532866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514125532866</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed">
+      <created>1519122836516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1519122836516</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed">
+      <created>1519122850105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1519122850105</updated>
+    </task>
+    <task id="LOCAL-00006" summary="+ diploma">
+      <created>1519125175075</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1519125175075</updated>
+    </task>
+    <task id="LOCAL-00007" summary="+ diploma">
+      <created>1520782948513</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1520782948513</updated>
+    </task>
+    <task id="LOCAL-00008" summary="+ diploma">
+      <created>1521282606563</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1521282606639</updated>
+    </task>
+    <task id="LOCAL-00009" summary="+ diploma">
+      <created>1521656914307</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521656914307</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711864" sideWeight="0.4815951" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33898306" sideWeight="0.506135" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="291" height="526" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711864" sideWeight="0.48773006" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711864" sideWeight="0.49079755" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33717105" sideWeight="0.49386504" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32711864" sideWeight="0.49386504" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33055976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68532526" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3983051" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="changed" />
+    <MESSAGE value="+ diploma" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ diploma" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Курсач/Model1.py</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Курсач/sep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="36" column="103" lean-forward="false" selection-start-line="36" selection-start-column="103" selection-end-line="36" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/Model1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/123.py" />
+    <entry file="file://$PROJECT_DIR$/Курсач/round.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="135" column="20" lean-forward="false" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/korn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/round.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="135" column="20" lean-forward="false" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/rk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/sep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="36" column="103" lean-forward="false" selection-start-line="36" selection-start-column="103" selection-end-line="36" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/Model1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/123.py" />
+    <entry file="file://$PROJECT_DIR$/Курсач/korn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/round.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="135" column="20" lean-forward="false" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/rk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/sep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="36" column="103" lean-forward="false" selection-start-line="36" selection-start-column="103" selection-end-line="36" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/Model1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/123.py" />
+    <entry file="file://$PROJECT_DIR$/Курсач/korn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/round.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/rk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/Model1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/123.py" />
+    <entry file="file://$PROJECT_DIR$/Курсач/sep.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/123.py" />
+    <entry file="file://$PROJECT_DIR$/../round.py" />
+    <entry file="file://$PROJECT_DIR$/Курсач/export.txt" />
+    <entry file="file://$PROJECT_DIR$/Курсач/ust.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="71" column="18" lean-forward="true" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/ust1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/plot_m.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/korn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3377">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/rk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/round.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-912">
+          <caret line="119" column="15" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="119" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/rav1_1.txt" />
+    <entry file="file://$PROJECT_DIR$/Курсач/Model1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/Lera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/save.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/sea_c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/PlotSt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/krint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="29" lean-forward="false" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/ellips.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/sensitivity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="59" column="29" lean-forward="false" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/Stohtr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="85" column="41" lean-forward="false" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/el.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="100" column="30" lean-forward="false" selection-start-line="100" selection-start-column="30" selection-end-line="100" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/intens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="60" column="32" lean-forward="false" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/vim_p.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/krint_vim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Курсач/ver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1528820858803" expanded="true" signature="1357:1366" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

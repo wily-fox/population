@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a827104-42d1-4ca1-a62b-88fc1a6c7386" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/Новый курсач.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/Новый курсач.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lera.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mathematica.nb" beforeDir="false" afterPath="$PROJECT_DIR$/../Mathematica.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Model1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Model1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stohtr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Stohtr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Mathematica_1.nb" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Mathematica_1.nb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Test2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Бифуркационные диаграммы/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Бифуркационные диаграммы/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/bif.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/bif.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/bif.png" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Бифуркационные диаграммы/Бифуркационная диаграмма/bif.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Бифуркация.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Бифуркация.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Бифуркация.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/0.21, sig0.01/0.21(0.05).fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/0.21, sig0.01/0.21(0.05).fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/0.21, sig0.01/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/0.21, sig0.01/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/0.21, sig0.01/xy_t.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/0.21, sig0.01/xy_t.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/0.235_2, sig0.01/0.235(0.01).fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/0.235_2, sig0.01/0.235(0.01).fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/0.235_2, sig0.01/0.235.png" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/0.235_2, sig0.01/0.235.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/0.235_2/xy_t.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/0.235_2/xy_t.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/0.235_2/xy_t.png" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/0.235_2/xy_t.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.01/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.01/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.05/b_k(0.05).fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.05/b_k(0.05).fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.05/xy1.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Большеамплитудные колебания/0.1309/sig0.05/xy1.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.025/vim(0.025).fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.025/vim(0.025).fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.025/xy.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.025/xy.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.05/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.05/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.05/vim(0.05).fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.05/vim(0.05).fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.05/vim(0.05).png" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.05/vim(0.05).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.05/xy.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Вымирание/0.12/sig0.05/xy.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.1/fig1a.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.1/fig1a.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.130880839/fig4b.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.130880839/fig4b.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.15/fig4c.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.15/fig4c.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.196565/fig4d.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.196565/fig4d.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.2/fig4e.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.2/fig4e.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.23/fig4f.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.23/fig4f.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.2395/fig4g.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Графики/Фазовые портреты/0.2395/fig4g.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Дипломчик.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Дипломчик.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Картинки для вставки/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Картинки для вставки/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Картинки для вставки/krint_p.png" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Картинки для вставки/krint_p.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Картинки для вставки/m_del.png" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Картинки для вставки/m_del.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Фиги/T_del.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Фиги/T_del.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Фиги/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Фиги/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Фиги/Ust2.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Фиги/Ust2.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Фиги/Ust2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Фиги/Ust2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Фиги/m_del.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Фиги/m_del.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../alpha=0,4/Шум/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../alpha=0,4/Шум/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blue1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cycle.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../el.py" beforeDir="false" afterPath="$PROJECT_DIR$/../el.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gray.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gray1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../intens.py" beforeDir="false" afterPath="$PROJECT_DIR$/../intens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../krint_p.fig" beforeDir="false" afterPath="$PROJECT_DIR$/../krint_p.fig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../krint_vim.py" beforeDir="false" afterPath="$PROJECT_DIR$/../krint_vim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pol_22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../red.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../red1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../save.py" beforeDir="false" afterPath="$PROJECT_DIR$/../save.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sensitivity.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sensitivity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../tr.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../traekt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vim_p.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vim_p.py" beforeDir="false" afterPath="$PROJECT_DIR$/../vim_p.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sensitivity_ag.py" />
+        <option value="$PROJECT_DIR$/el_ag.py" />
+        <option value="$PROJECT_DIR$/intens_ag.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Физтех" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.intens_ag">
+    <configuration name="el_ag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Параметрический шум" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/el_ag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="intens_ag" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Параметрический шум" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intens_ag.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.intens_ag" />
+        <item itemvalue="Python.el_ag" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a827104-42d1-4ca1-a62b-88fc1a6c7386" name="Default Changelist" comment="" />
+      <created>1545559487694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545559487694</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27332243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Stohtr.py" />
+    <entry file="file://$PROJECT_DIR$/sensitivity_ag.py" />
+    <entry file="file://$PROJECT_DIR$/intens_ag.py" />
+    <entry file="file://$PROJECT_DIR$/el_ag.py" />
+  </component>
+</project>

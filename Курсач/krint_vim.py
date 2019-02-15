@@ -1,14 +1,15 @@
 from save import *
 from Search import *
+from functions import *
 import numpy as np
 import math
+from datetime import datetime
 
 
 def make_data(alpha, delta, sig, h, blue, red, gray, delta1, delta2, delta3):
     x0, y0 = search_cycle(alpha, delta, h)
     x0 = x0[0]
     y0 = y0[0]
-    f = True
     for i in range(10000):
         n1 = np.random.normal()
         n2 = np.random.normal()
@@ -25,14 +26,12 @@ def make_data(alpha, delta, sig, h, blue, red, gray, delta1, delta2, delta3):
         if x1 <= 0:
             blue.append(sig)
             delta1.append(delta)
-            f = False
             break
         if y1 <= 0:
             red.append(sig)
             delta2.append(delta)
-            f = False
             break
-        if f:
+        if i == 9999:
             gray.append(sig)
             delta3.append(delta)
         x0 = x1
@@ -46,15 +45,17 @@ def main():
     delta1 = []
     delta2 = []
     delta3 = []
-    i = 0.000001
+    i = 0.1
     j = 0
-    while i <= 0.130881:
-        while j <= 1:
+    while i <= 0.2:
+        start = datetime.now()
+        while j <= 0.1:
             make_data(0.4, i, j, 0.01, blue, red, gray, delta1, delta2, delta3)
-            j += 0.01
-        i += 0.01
+            j += 0.001
+        print("{} (elapsed {} sec.)".format(i, (datetime.now() - start).seconds))
+        i += 0.001
         j = 0
-        print(i)
+
     matlab_export(delta2, red, "red.txt")
     matlab_export(delta1, blue, "blue.txt")
     matlab_export(delta3, gray, "gray.txt")

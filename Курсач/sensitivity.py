@@ -1,8 +1,8 @@
 from Search import *
 import math
 from save import *
-import pylab
-import matplotlib.pyplot as plt
+# import pylab
+# import matplotlib.pyplot as plt
 
 
 def A(x, y, alpha, delta):
@@ -15,7 +15,7 @@ def A(x, y, alpha, delta):
     pr_fg = f_y + g_x
     sq_fg = f_zn ** 2 + g_zn ** 2
     return 2 * (f_x * g_zn ** 2 + g_y * f_zn ** 2 - g_zn * f_zn * pr_fg) / sq_fg
-
+   
 
 def sens(alpha, delta, h):
     max_m = 0

@@ -1,7 +1,7 @@
 from Stohtr import *
 from functions import *
-import pylab
-import matplotlib.pyplot as plt
+# import pylab
+# import matplotlib.pyplot as plt
 import math
 from save import *
 
@@ -67,7 +67,7 @@ def ellips(alpha, delta, sig, p):
         list_x.append(xf)
         list_y.append(yf)
         i += 2 * math.pi / 360
-    return list_x, list_y
+    return list_x, list_y, xy
 
 
 def make_data1(x, y, alpha, delta, h):
@@ -97,23 +97,25 @@ def main(alpha, delta):
     ys1 = xy[1] + 0.0001
     ys2 = xy[1] - 0.0001
     # print(xy)
-    x_list, y_list = ellips(alpha, delta, 0.01, 0.99)
+    x_list, y_list, xy = ellips(alpha, delta, 0.01, 0.99)
+    print(search3(alpha, delta))
     obl_x, obl_y = make_data(alpha, delta, 0.01, 0.01)
+    matlab_export([xy[0]], [xy[1]], "rav.txt")
     matlab_export(x_list, y_list, "ellips.txt")
     matlab_export(obl_x, obl_y, "tr.txt")
     xsep1, ysep1 = make_data1(xs1, ys1, alpha, delta, -0.01)
     xsep2, ysep2 = make_data1(xs2, ys2, alpha, delta, -0.01)
-    matlab_export(xsep1, ysep1, "sep1.txt")
-    matlab_export(xsep2, ysep2, "sep2.txt")
-    plt.plot(x_list, y_list, 'k', obl_x, obl_y, 'o')
-    plt.plot(xsep1, ysep1, 'r:', xsep2, ysep2, 'r:')
-    plt.axis([0, 90, 0, 12])
-    plt.grid(True)
-    pylab.show()
+    # matlab_export(xsep1, ysep1, "sep1.txt")
+    # matlab_export(xsep2, ysep2, "sep2.txt")
+    # plt.plot(x_list, y_list, 'k', obl_x, obl_y, 'o')
+    # plt.plot(xsep1, ysep1, 'r:', xsep2, ysep2, 'r:')
+    # plt.axis([0, 90, 0, 12])
+    # plt.grid(True)
+    # pylab.show()
 
 
 if __name__ == '__main__':
-    main(0.4, 0.1309)
+    main(0.4, 0.23)
 
 
 

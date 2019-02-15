@@ -53,6 +53,7 @@ def make_data(alpha, delta, sig, h):
     list_t = []
     # x0, y0 = search_cycle(alpha, delta, h)
     x0, y0 = search(alpha, delta)
+    # print(x0, y0)
     for i in range(100000):
         n1 = np.random.normal()
         n2 = np.random.normal()
@@ -70,10 +71,14 @@ def make_data(alpha, delta, sig, h):
             x1 = 0
         else:
             x1 = x0 + (km1 + 2 * km2 + 2 * km3 + km4) / 6 + sig * n1 * math.sqrt(h)
+            # x1 = x0 + (km1 + 2 * km2 + 2 * km3 + km4) / 6 + x0 * sig * n1 * math.sqrt(h)
+            # x1 = x0 + (km1 + 2 * km2 + 2 * km3 + km4) / 6
         if y0 <= 0:
             y1 = 0
         else:
             y1 = y0 + (lm1 + 2 * lm2 + 2 * lm3 + lm4) / 6 + sig * n2 * math.sqrt(h)
+            # y1 = y0 + (lm1 + 2 * lm2 + 2 * lm3 + lm4) / 6 - y0 * sig * n2 * math.sqrt(h)
+            # y1 = y0 + (lm1 + 2 * lm2 + 2 * lm3 + lm4) / 6 - y0 * y0 * sig * n2 * math.sqrt(h)
         main_listx.append(x1)
         main_listy.append(y1)
         list_t.append(i)
@@ -81,11 +86,12 @@ def make_data(alpha, delta, sig, h):
         y0 = y1
     main_listx1 = []
     main_listy1 = []
-    for i in range(0, len(main_listx), 10):
+    for i in range(0, len(main_listx), 20):
         main_listx1.append(main_listx[i])
         main_listy1.append(main_listy[i])
     return main_listx1, main_listy1
     # return main_listx, main_listy
 
-x, y = make_data(0.4, 0.1309, 0.01, 0.01)
-matlab_export(x, y, "tr.txt")
+
+# x, y = make_data(0.4, 0.12, 0.1, 0.01)
+# matlab_export(x, y, "tr.txt")

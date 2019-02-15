@@ -1,0 +1,1097 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2018.10.17)  20 NOV 2018 17:13
+entering extended mode
+**./template.tex
+(template.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(crm-article.cls
+Document Class: crm-article 2012/02/16 CRM class v.0.0.4
+ Copyright (c) 2007-2012 MSU BioPhysics Dept. Moscow (mce@mce.su).
+ Licensed under the LPPL: http://www.latex-project.org/lppl.txt
+ Parts of the file are:
+ Copyright (c) 1997-1999 Patrick W Daly,
+ Copyright (c) 1997-1998 David Carlisle,
+ Copyright (c) 1999 The American Physical Society (revtex4@aps.org, http://publ
+ish.aps.org/revtex4/),
+ Copyright (c) 2004 ITP TU Berlin,
+ Copyright (c) 2008 Andrey Paramonov (cmr.Pent@gmail.com),
+ ... and others ... .
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ar
+ticle.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fl
+eqn.clo"
+File: fleqn.clo 2015/03/31 v1.1i Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\si
+ze11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+) (rcdthm.sty
+Package: rcdthm 2001/11/11
+\rcdthmsep=\skip43
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfont
+s\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfont
+s\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
+\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
+\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
+\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
+\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
+\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks16
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\txfonts.sty"
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 70.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/txsya/m/n on input line 93.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/txsyb/m/n on input line 102.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Info: Redefining \not on input line 1043.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fo
+ntenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrilli
+c\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrilli
+c\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\in
+putenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrilli
+c\cp1251.def"
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+))
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel
+\babel.sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\b
+blopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-r
+ussian\russianb.ldf"
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel
+\babel.def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen113
+)
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-e
+nglish\english.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\if
+then.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\revtex4
+\revsymb.sty"
+Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \lambdabar on input line 23.
+LaTeX Info: Redefining \frak on input line 94.
+LaTeX Info: Redefining \Bbb on input line 110.
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\v
+erbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read1
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url
+.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\l
+ongtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip47
+\LTright=\skip48
+\LTpre=\skip49
+\LTpost=\skip50
+\LTchunksize=\count100
+\LTcapwidth=\dimen114
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count101
+\LT@rows=\count102
+\c@LT@tables=\count103
+\c@LT@chunks=\count104
+\LT@p@ftn=\toks24
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tabular
+y\tabulary.sty"
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\a
+rray.sty"
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen115
+\extrarowheight=\dimen116
+\NC@list=\toks25
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+\TY@count=\count105
+\TY@linewidth=\dimen117
+\tymin=\dimen118
+\tymax=\dimen119
+\TY@tablewidth=\dimen120
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\h
+hline.sty"
+Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\f
+loat.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count106
+\float@exts=\toks26
+\float@box=\box32
+\@float@everytoks=\toks27
+\@floatcapt=\box33
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\footmis
+c\footmisc.sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks28
+\footnotemargin=\dimen121
+\c@pp@next@reset=\count107
+\c@@fnserial=\count108
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count109
+))
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks29
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
+s-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\wrapfig
+\wrapfig.sty"
+\wrapoverhang=\dimen124
+\WF@size=\dimen125
+\c@WF@wrappedlines=\count110
+\WF@box=\box34
+\WF@everypar=\toks30
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspac
+e\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption
+\caption.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption
+\caption3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen126
+\captionmargin@=\dimen127
+\captionwidth=\dimen128
+\caption@tempdima=\dimen129
+\caption@indent=\dimen130
+\caption@parindent=\dimen131
+\caption@hangindent=\dimen132
+)
+\c@caption@flags=\count111
+\c@ContinuedFloat=\count112
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption
+\ltcaption.sty"
+Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mdwtool
+s\footnote.sty"
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box35
+\fn@width=\dimen133
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\t
+abularx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen134
+\TX@old@table=\dimen135
+\TX@old@col=\dimen136
+\TX@target=\dimen137
+\TX@delta=\dimen138
+\TX@cols=\count113
+\TX@ftn=\toks31
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktab
+s\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count114
+\@cmidlb=\count115
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count116
+\@lastruleclass=\count117
+\@thisrulewidth=\dimen151
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfig\
+subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count118
+\sf@farskip=\skip53
+\sf@captopadj=\dimen152
+\sf@capskip=\skip54
+\sf@nearskip=\skip55
+\c@subfigure=\count119
+\c@subfigure@save=\count120
+\c@lofdepth=\count121
+\c@subtable=\count122
+\c@subtable@save=\count123
+\c@lotdepth=\count124
+\sf@top=\skip56
+\sf@bottom=\skip57
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\t2\cite
+hack.sty"
+Package: citehack 
+LaTeX Info: Redefining \ref on input line 65.
+LaTeX Info: Redefining \pageref on input line 68.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpag
+e\lastpage.sty"
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp.s
+ty"
+Package: fp 1995/04/02
+ `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\defp
+attern.sty"
+Package: defpattern 1994/10/12
+\actioncount=\count125
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-b
+asic.sty"
+Package: fp-basic 1996/05/13
+\FP@xs=\count126
+\FP@xia=\count127
+\FP@xib=\count128
+\FP@xfa=\count129
+\FP@xfb=\count130
+\FP@rega=\count131
+\FP@regb=\count132
+\FP@regs=\count133
+\FP@times=\count134
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-a
+ddons.sty"
+Package: fp-addons 1995/03/15
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-s
+nap.sty"
+Package: fp-snap 1995/04/05
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-e
+xp.sty"
+Package: fp-exp 1995/04/03
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-t
+rigo.sty"
+Package: fp-trigo 1995/04/14
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-p
+as.sty"
+Package: fp-pas 1994/08/29
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-r
+andom.sty"
+Package: fp-random 1995/02/23
+\FPseed=\count135
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-e
+qn.sty"
+Package: fp-eqn 1995/04/03
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-u
+pn.sty"
+Package: fp-upn 1996/10/21
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-e
+val.sty"
+Package: fp-eval 1995/04/03
+))
+\TOarg=\skip58
+\TOunit=\skip59
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\ci
+te.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+\bibhang=\skip60
+\c@parno=\count136
+\c@subparno=\count137
+\c@authors=\count138
+\c@affil=\count139
+\c@authorseng=\count140
+\c@affileng=\count141
+\c@email=\count142
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic
+\eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)))
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhd
+r\fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip61
+\f@nch@O@elh=\skip62
+\f@nch@O@erh=\skip63
+\f@nch@O@olh=\skip64
+\f@nch@O@orh=\skip65
+\f@nch@O@elf=\skip66
+\f@nch@O@erf=\skip67
+\f@nch@O@olf=\skip68
+\f@nch@O@orf=\skip69
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\truncat
+e\truncate.sty"
+Package: truncate 2001/08/20  ver 3.6
+\@Trunc@RestHyph=\toks32
+)
+\absbox=\box36
+\absboxeng=\box37
+\c@teo=\count143
+\c@hyp=\count144
+\c@lem=\count145
+\c@cor=\count146
+\c@pro=\count147
+\c@con=\count148
+\c@fed=\count149
+\c@rem=\count150
+\c@com=\count151
+\c@exl=\count152
+\c@sol=\count153
+\@tempstrut=\skip70
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multiro
+w\multirow.sty"
+Package: multirow 2016/10/11 v2.1 Span multiple rows of a table
+\multirow@colwidth=\skip71
+\multirow@cnta=\count154
+\multirow@cntb=\count155
+\multirow@dima=\skip72
+\bigstrutjot=\dimen153
+) (template.aux)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 8.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 8.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\omltxmi.fd"
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 8.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 8.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\omstxsy.fd"
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 8.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 8.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\omxtxex.fd"
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 8.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 8.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\utxexa.fd"
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 8.
+LaTeX Font Info:    No file T2Aftm.fd. on input line 8.
+
+
+LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 8.
+
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\
+supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count156
+\scratchdimen=\dimen154
+\scratchbox=\box38
+\nofMPsegments=\count157
+\nofMParguments=\count158
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen155
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
+\everyMPtoPDFconversion=\toks34
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdie
+k\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdie
+k\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdie
+k\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
+iek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 8.
+\AtBeginShipoutBox=\box39
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 79.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 79.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\ot1txr.fd"
+File: ot1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsya on input line 79.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\utxsya.fd"
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 79.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\utxsyb.fd"
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txmia on input line 79.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\utxmia.fd"
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 79.
+
+("C:\Users\Абрамова\AppData\Local\Programs\MiKTeX 2.9\tex\latex\txfonts
+\utxsyc.fd"
+File: utxsyc.fd 2000/12/15 v3.1
+)
+
+LaTeX Font Warning: Font shape `T2A/ftm/bx/n' undefined
+(Font)              using `T2A/ftm/m/n' instead on input line 101.
+
+
+LaTeX Font Warning: Font shape `T2A/ftm/bx/n' in size <18> not available
+(Font)              size <17.28> substituted on input line 101.
+
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 101.
+
+LaTeX Font Warning: Font shape `T2A/ftm/m/it' undefined
+(Font)              using `T2A/ftm/m/n' instead on input line 101.
+
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 101.
+
+LaTeX Font Info:    No file OT1ftm.fd. on input line 101.
+
+LaTeX Font Warning: Font shape `OT1/ftm/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 101.
+
+LaTeX Font Info:    Try loading font information for OMS+ftm on input line 101.
+
+LaTeX Font Info:    No file OMSftm.fd. on input line 101.
+
+LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
+(Font)              using `OMS/txsy/m/n' instead on input line 101.
+
+Package epstopdf Info: Source file: <crm-logo.eps>
+(epstopdf)                    date: 2018-10-17 14:15:13
+(epstopdf)                    size: 34558 bytes
+(epstopdf)             Output file: <crm-logo-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-19 18:02:48
+(epstopdf)                    size: 4855 bytes
+(epstopdf)             Command: <epstopdf --outfile=crm-logo-eps-converted-to.p
+df crm-logo.eps>
+(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Output file is already uptodate.
+<crm-logo-eps-converted-to.pdf, id=1, 46.1725pt x 22.0825pt>
+File: crm-logo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use crm-logo-eps-converted-to.pdf>
+Package pdftex.def Info: crm-logo-eps-converted-to.pdf used on input line 101.
+(pdftex.def)             Requested size: 46.17236pt x 22.08243pt.
+ [1{C:/Users/Абрамова/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+}
+
+ <./crm-logo-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <crm-logo.eps>
+(epstopdf)                    date: 2018-10-17 14:15:13
+(epstopdf)                    size: 34558 bytes
+(epstopdf)             Output file: <crm-logo-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-11-19 18:02:48
+(epstopdf)                    size: 4855 bytes
+(epstopdf)             Command: <epstopdf --outfile=crm-logo-eps-converted-to.p
+df crm-logo.eps>
+(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Output file is already uptodate.
+File: crm-logo-eps-converted-to.pdf Graphic file (type pdf)
+
+<use crm-logo-eps-converted-to.pdf>
+Package pdftex.def Info: crm-logo-eps-converted-to.pdf used on input line 101.
+(pdftex.def)             Requested size: 46.17236pt x 22.08243pt.
+ [2]
+
+LaTeX Font Warning: Font shape `T2A/ftm/bx/it' undefined
+(Font)              using `T2A/ftm/bx/n' instead on input line 148.
+
+
+LaTeX Font Warning: Font shape `T2A/ftm/m/sl' undefined
+(Font)              using `T2A/ftm/m/n' instead on input line 158.
+
+[3] <bif.png, id=28, 220.57407pt x 79.79813pt>
+File: bif.png Graphic file (type png)
+ <use bif.png>
+Package pdftex.def Info: bif.png used on input line 199.
+(pdftex.def)             Requested size: 227.62204pt x 82.35126pt.
+ [4]
+<fig4a.png, id=35, 880.03781pt x 471.26062pt>
+File: fig4a.png Graphic file (type png)
+ <use fig4a.png>
+Package pdftex.def Info: fig4a.png used on input line 214.
+(pdftex.def)             Requested size: 227.62204pt x 121.89207pt.
+
+<fig4b.png, id=36, 871.00406pt x 469.755pt>
+File: fig4b.png Graphic file (type png)
+ <use fig4b.png>
+Package pdftex.def Info: fig4b.png used on input line 215.
+(pdftex.def)             Requested size: 227.62204pt x 122.75702pt.
+
+<fig4c.png, id=37, 860.46469pt x 471.26062pt>
+File: fig4c.png Graphic file (type png)
+ <use fig4c.png>
+Package pdftex.def Info: fig4c.png used on input line 216.
+(pdftex.def)             Requested size: 227.62204pt x 124.66055pt.
+
+<fig4d.png, id=38, 872.50969pt x 471.26062pt>
+File: fig4d.png Graphic file (type png)
+ <use fig4d.png>
+Package pdftex.def Info: fig4d.png used on input line 217.
+(pdftex.def)             Requested size: 227.62204pt x 122.94194pt.
+
+<fig4e.png, id=39, 864.98157pt x 471.26062pt>
+File: fig4e.png Graphic file (type png)
+ <use fig4e.png>
+Package pdftex.def Info: fig4e.png used on input line 218.
+(pdftex.def)             Requested size: 227.62204pt x 124.01337pt.
+
+<fig4f.png, id=40, 864.98157pt x 469.755pt>
+File: fig4f.png Graphic file (type png)
+ <use fig4f.png>
+Package pdftex.def Info: fig4f.png used on input line 219.
+(pdftex.def)             Requested size: 227.62204pt x 123.61717pt.
+
+<fig4g.png, id=41, 878.53218pt x 471.26062pt>
+File: fig4g.png Graphic file (type png)
+ <use fig4g.png>
+Package pdftex.def Info: fig4g.png used on input line 220.
+(pdftex.def)             Requested size: 227.62204pt x 122.1006pt.
+
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 214--221
+[][] []
+ []
+
+
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 214--221
+[] []
+ []
+
+
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 214--221
+[] []
+ []
+
+<bif1.png, id=42, 1029.09468pt x 310.15875pt>
+File: bif1.png Graphic file (type png)
+ <use bif1.png>
+Package pdftex.def Info: bif1.png used on input line 229.
+(pdftex.def)             Requested size: 455.24408pt x 137.20856pt.
+ [5 <./bif.png>]
+[6 <./fig4a.png> <./fig4b.png> <./fig4c.png> <./fig4d.png> <./fig4e.png> <./fig
+4f.png> <./fig4g.png>] <Ust2.png, id=57, 1029.09468pt x 472.01344pt>
+File: Ust2.png Graphic file (type png)
+
+<use Ust2.png>
+Package pdftex.def Info: Ust2.png used on input line 283.
+(pdftex.def)             Requested size: 455.24408pt x 208.81012pt.
+ [7 <./bif1.png (PNG copy)>] [8 <./Ust2.png (PNG copy)>]
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 312.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 312.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 312.
+
+Missing character: There is no � in font txr!
+Missing character: There is no � in font txr!
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 312.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 312.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 312.
+
+Missing character: There is no � in font txr!
+Missing character: There is no � in font txr!
+[9] <pol_el.png, id=68, 1029.09468pt x 325.96782pt>
+File: pol_el.png Graphic file (type png)
+ <use pol_el.png>
+Package pdftex.def Info: pol_el.png used on input line 382.
+(pdftex.def)             Requested size: 455.24408pt x 144.2022pt.
+ [10]
+<m_del.png, id=72, 1029.09468pt x 333.49594pt>
+File: m_del.png Graphic file (type png)
+ <use m_del.png>
+Package pdftex.def Info: m_del.png used on input line 398.
+(pdftex.def)             Requested size: 455.24408pt x 147.5325pt.
+ [11 <./pol_el.png (PNG copy)> <./m_del.png (PNG copy)>]
+<0_235.png, id=76, 1029.09468pt x 343.2825pt>
+File: 0_235.png Graphic file (type png)
+ <use 0_235.png>
+Package pdftex.def Info: 0_235.png used on input line 428.
+(pdftex.def)             Requested size: 455.24408pt x 151.8619pt.
+ [12 <./0_235.png (PNG copy)>] <xy_t_0_235_.png, id=80, 1029.09468pt x 333.4959
+4pt>
+File: xy_t_0_235_.png Graphic file (type png)
+
+<use xy_t_0_235_.png>
+Package pdftex.def Info: xy_t_0_235_.png used on input line 443.
+(pdftex.def)             Requested size: 455.24408pt x 147.5325pt.
+ <0_21.png, id=81, 1029.09468pt x 327.47343pt>
+File: 0_21.png Graphic file (type png)
+
+<use 0_21.png>
+Package pdftex.def Info: 0_21.png used on input line 465.
+(pdftex.def)             Requested size: 455.24408pt x 144.86826pt.
+ [13 <./xy_t_0_235_.png (PNG copy)>]
+<xy_t_0_21_.png, id=86, 1029.09468pt x 334.24875pt>
+File: xy_t_0_21_.png Graphic file (type png)
+ <use xy_t_0_21_.png>
+Package pdftex.def Info: xy_t_0_21_.png used on input line 479.
+(pdftex.def)             Requested size: 455.24408pt x 147.86552pt.
+
+[14 <./0_21.png (PNG copy)> <./xy_t_0_21_.png (PNG copy)>]
+<krint_p.png, id=90, 1029.09468pt x 327.47343pt>
+File: krint_p.png Graphic file (type png)
+ <use krint_p.png>
+Package pdftex.def Info: krint_p.png used on input line 488.
+(pdftex.def)             Requested size: 455.24408pt x 144.86826pt.
+
+<b_k.png, id=91, 1029.09468pt x 327.47343pt>
+File: b_k.png Graphic file (type png)
+ <use b_k.png>
+Package pdftex.def Info: b_k.png used on input line 511.
+(pdftex.def)             Requested size: 455.24408pt x 144.86826pt.
+
+<b_k_xy.png, id=92, 1029.09468pt x 343.2825pt>
+File: b_k_xy.png Graphic file (type png)
+ <use b_k_xy.png>
+Package pdftex.def Info: b_k_xy.png used on input line 520.
+(pdftex.def)             Requested size: 455.24408pt x 151.8619pt.
+ [15 <./krint_p.png (PNG copy)>] <vim_0_025_.png, id=96, 855.195pt x 337.26pt>
+File: vim_0_025_.png Graphic file (type png)
+
+<use vim_0_025_.png>
+Package pdftex.def Info: vim_0_025_.png used on input line 538.
+(pdftex.def)             Requested size: 455.24408pt x 179.52916pt.
+ [16 <./b_k.png (PNG copy)> <./b_k_xy.png (PNG copy)>]
+<vim_0_05_.png, id=100, 861.9703pt x 341.77687pt>
+File: vim_0_05_.png Graphic file (type png)
+ <use vim_0_05_.png>
+Package pdftex.def Info: vim_0_05_.png used on input line 547.
+(pdftex.def)             Requested size: 455.24408pt x 180.50984pt.
+ [17 <./vim_0_025_.png> <./vim_0_05_.png>] <ver.png, id=106, 1029.09468pt x 343
+.2825pt>
+File: ver.png Graphic file (type png)
+
+<use ver.png>
+Package pdftex.def Info: ver.png used on input line 561.
+(pdftex.def)             Requested size: 455.24408pt x 151.8619pt.
+ <blue_red.png, id=107, 618.05907pt x 239.39438pt>
+File: blue_red.png Graphic file (type png)
+
+<use blue_red.png>
+Package pdftex.def Info: blue_red.png used on input line 582.
+(pdftex.def)             Requested size: 455.24408pt x 176.33812pt.
+ [18 <./ver.png (PNG copy)>] [19 <./blue_red.png (PNG copy)>] 
+AED: lastpage setting LastPage
+[20] (template.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.72pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7768 strings out of 493333
+ 111807 string characters out of 3125368
+ 204911 words of memory out of 3000000
+ 11010 multiletter control sequences out of 15000+200000
+ 61084 words of font info for 160 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,16n,45p,2055b,436s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Абрамова/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/
+base/8r.enc} <C:\Users\Абрамова\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
+r\lh\lh-t2a\dpi600\larm0800.pk> <C:\Users\Абрамова\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk> <C:\Users\Абрамова\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk> <C:\Users
+\Абрамова\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lar
+m1440.pk> <C:\Users\Абрамова\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
+h\lh-t2a\dpi600\larm1728.pk> <C:\Users\Абрамова\AppData\Local\MiKTeX\2.
+9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1200.pk> <C:\Users\Абрамова\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0900.pk> <C:\Users\А
+брамова\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm10
+95.pk><C:/Users/Абрамова/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/txfonts/rtxmi.pfb><C:/Users/Абрамова/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/txfonts/rtxr.pfb><C:/Users/Абрамова/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/txfonts/txex.pfb><C:/Users/Абра
+мова/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/txfonts/txsy.pfb>
+<C:/Users/Абрамова/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmr8a.pfb><C:/Users/Абрамова/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/urw/times/utmri8a.pfb>
+Output written on template.pdf (20 pages, 563302 bytes).
+PDF statistics:
+ 660 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+

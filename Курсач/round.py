@@ -121,9 +121,9 @@ def search_cycle(alpha, delta):
 
 
 def make_data(x, y, alpha, delta, h):
-    xlist = [x]
-    ylist = [y]
-    for i in range(1, 1000000):
+    xlist = []
+    ylist = []
+    for i in range(1000000):
         km1 = h*f(x, y, alpha)
         lm1 = h*g(x, y, alpha, delta)
         km2 = h*f(x + km1/2, y + lm1/2, alpha)
@@ -134,6 +134,8 @@ def make_data(x, y, alpha, delta, h):
         lm4 = h*g(x + km3, y + lm3, alpha, delta)
         x1 = x + (km1 + 2*km2 + 2*km3 + km4)/6
         y1 = y + (lm1 + 2*lm2 + 2*lm3 + lm4)/6
+        if abs(x1 - x) < 0.00001:
+            return xlist, ylist
         xlist.append(x1)
         ylist.append(y1)
         if abs(x1) > 100 or abs(y1) > 100:
